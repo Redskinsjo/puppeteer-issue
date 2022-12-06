@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scrap": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.3.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
